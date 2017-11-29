@@ -17,6 +17,7 @@
 
 * Developed a text visualization tool to display the variation of tokens in different translation versions
 [(Repository)](https://github.com/Xiaoxiao-Liu/CSCM10);
+<img src="image/TranslationVisualization.JPG" alt="Interpretation" width="450px">
 
 * Implemented a basic content management system
 [(Repository)](https://github.com/Xiaoxiao-Liu/CMSystem);
