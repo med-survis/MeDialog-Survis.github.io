@@ -1,7 +1,9 @@
 
 <img src="image/Xiaoxiao.jpg" alt="Interpretation" width="200px" align="right">
 
-# Xiaoxiao Liu #
+ # Xiaoxiao Liu #
+
+怕什么真理无穷，进一寸有一寸的欢喜
 
 > Programmer, Translator
 
@@ -17,8 +19,8 @@
 
 * Developed a text visualization tool to display the variation of tokens in different translation versions
 [(Repository)](https://github.com/Xiaoxiao-Liu/CSCM10);
-<img src="image/TranslationVisualization.JPG" alt="Interpretation" width="450px">
-
+<video src="Video/TransVis.mp4" width="650px" height="500px" controls="controls">
+</video>
 * Implemented a basic content management system
 [(Repository)](https://github.com/Xiaoxiao-Liu/CMSystem);
 
