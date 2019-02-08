@@ -24,18 +24,18 @@
 * Developed a general data pre-processing procedure and implemented a data-centered prediction solution.
 
 ### Achievements
-* Sales Prediction System
-    - Used Python + machine learning technologies to improve a data system to accurately forecast the sales volume of women’s clothing products during a promotional season, under the development environment of MacOS+Jupyter Notebook 5.4.0+hadoop 2.6+apache-hive-2.3.2. 
-    - Combined data from various resources and processed the original data through Boxlot and Histogram until it met required characteristics. 
-    - Data normalization, logarithmic processing and variance analysis through NumPy and Pandas and model training/fusion with XGBoost and LR. 
-    - Increased the prediction accuracy rate by 10 percent from the previous manual prediction, which provided the company with a good tool for decision making and sales preparations. 
-* Personalized Product Recommendation System
-    - Developed a data processing program based on the analysis of products, characteristics and intentions of customers, such that the system can automatically recommend suitable products to an individual customer. 
-    - Created a recommendation algorithm based on collaborative filtering and Association Rule, combining user background information with purchasing history. 
-    - Developed Python API of the recommendation system for front-end developers and other project users. 
-    - Improved customers’ online buying experiences and increased accuracy of sales prediction by 10 percent and customer loyalty.  
-    - Development environment: MacOS	HighSierra+Apache Spark-2.2.0+Elasticsearch+5.3.0+Python-3.6.4+Nodejs
-    - Technology and algorithms used: Pyspark, Elasticsearch, FPGrowth, Alternating Least Square (ALS), Association Rule Learning. 
+#### Sales Prediction System
+* Used Python + machine learning technologies to improve a data system to accurately forecast the sales volume of women’s clothing products during a promotional season, under the development environment of MacOS+Jupyter Notebook 5.4.0+hadoop 2.6+apache-hive-2.3.2. 
+* Combined data from various resources and processed the original data through Boxlot and Histogram until it met required characteristics. 
+* Data normalization, logarithmic processing and variance analysis through NumPy and Pandas and model training/fusion with XGBoost and LR. 
+* Increased the prediction accuracy rate by 10 percent from the previous manual prediction, which provided the company with a good tool for decision making and sales preparations. 
+#### Personalized Product Recommendation System
+* Developed a data processing program based on the analysis of products, characteristics and intentions of customers, such that the system can automatically recommend suitable products to an individual customer. 
+* Created a recommendation algorithm based on collaborative filtering and Association Rule, combining user background information with purchasing history. 
+* Developed Python API of the recommendation system for front-end developers and other project users. 
+* Improved customers’ online buying experiences and increased accuracy of sales prediction by 10 percent and customer loyalty.  
+* Development environment: MacOS	HighSierra+Apache Spark-2.2.0+Elasticsearch+5.3.0+Python-3.6.4+Nodejs
+* Technology and algorithms used: Pyspark, Elasticsearch, FPGrowth, Alternating Least Square (ALS), Association Rule Learning. 
 
 <a class="Experience" style="text-decoration:underline"><font size="5"><b>Other Projects</b></font></a>
 
