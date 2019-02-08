@@ -94,12 +94,11 @@ Developed a user interaction dashboard for a translator to compare the translati
 * Dissertation: 10,000 words thesis: "On the Image of Amaranta from the Perspective of Solitude";
 
 
-<a class="Experience" style="text-decoration:underline"><font size="5"><b>Language Skills & Other Certificates</b></font></a>
+<a class="Experience" style="text-decoration:underline"><font size="5"><b>Language Skills</b></font></a>
 
-* Languages:
-  * English (professional proficiency)
-  * Mandarin (native proficiency)
-  * Japanese (basic) 
-* Piano: Grade 8 (the top is grade 10)
+* English (professional proficiency)
+* Mandarin (native proficiency)
+* Japanese (basic) 
+
 
 > Xiaoxiao Liu |  +86 15624507372 | rosaliu.567@gmail.com
