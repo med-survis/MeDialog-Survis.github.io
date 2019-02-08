@@ -22,6 +22,7 @@
 * HSTYLE is one of the largest e-commerce companies in East China. Primary products are clothing lines. 
 * Responsible for several data projects supporting online sales, including an online sales prediction system and an analysis of online customers’ purchasing objectives.
 * Developed a general data pre-processing procedure and implemented a data-centered prediction solution.
+
 ### Achievements
 * Sales Prediction System
     - Used Python + machine learning technologies to improve a data system to accurately forecast the sales volume of women’s clothing products during a promotional season, under the development environment of MacOS+Jupyter Notebook 5.4.0+hadoop 2.6+apache-hive-2.3.2. 
