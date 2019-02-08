@@ -1,28 +1,69 @@
 
 <img src="image/Xiaoxiao.jpg" alt="Interpretation" width="200px" align="right">
 
- # Xiaoxiao Liu #
+# Xiaoxiao(Rosa) Liu #
 
-怕什么真理无穷，进一寸有一寸的欢喜
 
-> Programmer, Translator
+> Experienced software/data engineer, with solid understanding of algorithms and data analytics. Responsible for several data-centered projects. Proven experience with data visualization and machine learning using Tf-Idf, Association Rule Learning, and regression analysis on large data sets. Fast learner. Trouble-shooter. Focused on achieving best results in challenging environments
 
-> Email: 889170@swansea.ac.uk
 
 <br><br>
+
+<a class="Experience" style="text-decoration:underline"><font size="5"><b>Technical Skills</b></font></a>
+
+* Python, Java, HTML, CSS, JavaScript, Latex
+* Hoodop, Spark, Sklearn, XGBoot, Matlab, NumPy, Pandas  
+* Knowledge of machine learning algorithms and data processing models 
+
+<a class="Experience" style="text-decoration:underline"><font size="5"><b>Internship</b></font></a>
+
+### [HSTYLE](https://handuyishe.world.tmall.com/) (2018.4-2018.9)
+
+* HSTYLE is one of the largest e-commerce companies in East China. Primary products are clothing lines. 
+* Responsible for several data projects supporting online sales, including an online sales prediction system and an analysis of online customers’ purchasing objectives.
+* Developed a general data pre-processing procedure and implemented a data-centered prediction solution.
+### Achievements
+* Sales Prediction System
+    - Used Python + machine learning technologies to improve a data system to accurately forecast the sales volume of women’s clothing products during a promotional season, under the development environment of MacOS+Jupyter Notebook 5.4.0+hadoop 2.6+apache-hive-2.3.2. 
+    - Combined data from various resources and processed the original data through Boxlot and Histogram until it met required characteristics. 
+    - Data normalization, logarithmic processing and variance analysis through NumPy and Pandas and model training/fusion with XGBoost and LR. 
+    - Increased the prediction accuracy rate by 10 percent from the previous manual prediction, which provided the company with a good tool for decision making and sales preparations. 
+* Personalized Product Recommendation System
+    - Developed a data processing program based on the analysis of products, characteristics and intentions of customers, such that the system can automatically recommend suitable products to an individual customer. 
+    - Created a recommendation algorithm based on collaborative filtering and Association Rule, combining user background information with purchasing history. 
+    - Developed Python API of the recommendation system for front-end developers and other project users. 
+    - Improved customers’ online buying experiences and increased accuracy of sales prediction by 10 percent and customer loyalty.  
+    - Development environment: MacOS	HighSierra+Apache Spark-2.2.0+Elasticsearch+5.3.0+Python-3.6.4+Nodejs
+    - Technology and algorithms used: Pyspark, Elasticsearch, FPGrowth, Alternating Least Square (ALS), Association Rule Learning. 
+
+<a class="Experience" style="text-decoration:underline"><font size="5"><b>Other Projects</b></font></a>
+
+### TransVis [(Repository)](https://github.com/Xiaoxiao-Liu/CSCM10);
+
+
+* [Master thesis](https://github.com/Xiaoxiao-Liu/Thesis.git): This was a project launched by Dr. Bob Laramee of Swansea University. The goal was to develop a multi-lingual corpus and visualization tool for translators and linguistics.   
+* Technologies used: Java, Java Swing, DeReKo, Stanford NLP API, Google Translation API, Doxygen, GIT.
+* Development environment: Windows 10 + Eclipse + JDK1.8.
+* Responsibilities: Processed the data in various translated articles using word frequency calculation, weight calculation, word shape restoration and so on. Created a comparison algorithm and provided a variety of visualization results. 
+Developed a user interaction dashboard for a translator to compare the translations of different versions. The visualization tool received a good user rating.
+<video src="Video/TransVis.mp4" width="650px" height="500px" controls="controls">
+</video>
+
+### CMSystem [(Repository)](https://github.com/Xiaoxiao-Liu/CMSystem)
+* Project introduction: This was an information management system, which allowed users to register, login, post, delete, search news and event information, and write comments on certain events or news.  
+* Technologies used: C#+JavaScript+HTML+CSS, MVC 
+* Responsibilities: Implemented the entire system and used MVC to divide the codes into three parts — Model+View+Controller. Model for creating database and accessing data. View for data visualization and user interaction. Controller for fetching data from view and communicating it to the model. 
+
 
 <a class="Experience" style="text-decoration:underline"><font size="5"><b>Education</b></font></a>
 
 ### Swansea University ###
 
-* MSc Computer Science, <a class="myclass" style="text-decoration:underline">Expected Distinction;</a>
+* MSc Computer Science, <a class="myclass" style="text-decoration:underline"> Distinction;</a>
 
 * Developed a text visualization tool to display the variation of tokens in different translation versions
-[(Repository)](https://github.com/Xiaoxiao-Liu/CSCM10);
-<video src="Video/TransVis.mp4" width="650px" height="500px" controls="controls">
-</video>
+
 * Implemented a basic content management system
-[(Repository)](https://github.com/Xiaoxiao-Liu/CMSystem);
 
 * Dissertation: Interactive Visualization of Shakespeare’s _Othello_;
 * Awarded for International Scholarship;
@@ -52,54 +93,13 @@
   * English Grammar - Grade: 73%
 * Dissertation: 10,000 words thesis: "On the Image of Amaranta from the Perspective of Solitude";
 
-<a class="Experience" style="text-decoration:underline"><font size="5"><b>Work and Intern Experience</b></font></a>
 
-### Tianjin University of Technology, China ###
-
-__Escort Interpreter__ (Sep 2015 - Jan 2016)
-
-* Served as an escort interpreter in International office of Tianjin University of Technology for conferences and banquet;
-* Served as an escort interpreter for <a class="myclass" style="text-decoration:underline">Mr. Rob de Koning</a> (Director of the Business and Technology Center Twente);
-
-<img src="image/Meeting-Interpretation.jpg" alt="Interpretation" width="350px">
-
-### Shandong Smart Translation Service Co. Ltd, China  ###
-
-__Translator__ (Dec 2014 – Feb 2015)
-
-* Translated technical material, commercial material, and legal documents;
-* Translated legal documents for The Center for Legal Assistance of Haidian District in Beijing;
-* Translated materials with the assistant of SDL Trados Studio 2010;
-
-### Sunmoon Education Group, China ### 
-
-__Human Resources Assistant__ (April 2014 - Oct 2014)
-
-
-* Recruited staffs, which involves developing job descriptions and person specifications, preparing job adverts, interviewing and selecting candidates;
-* Negotiated with staffs on issues relating to pay and conditions;
-
-#### English Tutor ####
-
-* Taught English grammar, listening, speaking, comprehension in <a class="myclass" style="text-decoration:underline">great feedback</a> (all courses scored an average of 90% satisfaction);
-* Developed new courses and teaching materials;
-
-<a class="Experience" style="text-decoration:underline"><font size="5"><b>Other Experience/ Volunteering</b></font></a>
-
-### YYeTs Fansub, Zimuzu.tv ###
-
-Subtitle Translator (April 2014-Now)
-
-* Participated subtitle making, including translation and timeline editing;
-* Translated subtitles (to Chinese) for English TV series and movies, including "*Urban Legend*", "*Agents of S.H.I.E.L.D*"，"*Captain America: Civil War*", etc.
-
-<a class="Experience" style="text-decoration:underline"><font size="5"><b>Skills and Interests</b></font></a>
+<a class="Experience" style="text-decoration:underline"><font size="5"><b>Language Skills & Other Certificates</b></font></a>
 
 * Languages:
   * English (professional proficiency)
   * Mandarin (native proficiency)
-  * Japanese (elementary proficiency) 
-* Programming Languages: Java, JavaScript, C#, HTML&CSS
-* Interests: Piano-The level 8 certification. World literature
+  * Japanese (basic) 
+* Piano: Grade 8 (the top is grade 10)
 
-> Xiaoxiao Liu |  +44 7754281232 | 889170@swansea.ac.uk
+> Xiaoxiao Liu |  +86 15624507372 | rosaliu.567@gmail.com
