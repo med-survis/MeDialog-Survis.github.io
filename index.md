@@ -31,6 +31,8 @@
   -	Used MAML of meta-learning theory to optimize the Linear Regression Model.
   -	Applied Flask framework for the interactive visualisation system.
   -	Won the Third Prize of the Software Design Competition for College Students in Shandong Province
+<video src="Video/story-readability.MP4" width="650px" height="500px" controls="controls">
+</video>
 
 
 ## [Handu.com -- Internship (Software Engineer)](https://handuyishe.world.tmall.com/) (2018.4-2018.9)
