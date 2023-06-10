@@ -54,7 +54,7 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Sample literature collection for <b><a href="#" target="_blank">Medical Dialogue System</a></b>',
+    html: 'Literature collection for <b><a href="#" target="_blank">Medical Dialogue System</a></b>',
     id: 'Beck2016Visual'
 };
 
