@@ -1,12 +1,12 @@
 define({
 	tagCategories: {
-		"Datasets": {
+		"datasets": {
 			"description": "Datasets applied in the paper"
 		},
-		"Language Models": {
+		"language models": {
 			"description": "The models discussed in the paper"
 		},
-		"Evaluation Metrics": {
+		"evaluation metrics": {
 			"description": "The evaluation metrics adoped in the paper"
 		}
 	}

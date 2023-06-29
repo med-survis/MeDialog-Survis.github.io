@@ -1,1 +1,1 @@
-define({availablePdf: ["Abadeer2020AssessmentOD"]});
+define({availablePdf: []});

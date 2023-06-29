@@ -54,10 +54,10 @@ def listAvailablePdf():
     fOut = open(availablePdfFile, "w")
     s = "define({availablePdf: ["
     count = 0
-    for file in os.listdir(papersDir):
-        if file.endswith(".pdf"):
-            s+= "\""+file.replace(".pdf","")+"\","
-            count += 1
+    # for file in os.listdir(papersDir):
+    #     if file.endswith(".pdf"):
+    #         s+= "\""+file.replace(".pdf","")+"\","
+    #         count += 1
     if count > 0:
         s = s[:len(s) - 1]
     s+= "]});"
